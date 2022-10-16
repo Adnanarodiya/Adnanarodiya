@@ -1,6 +1,6 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! My name is Adnan</h2>
 <h4 align="center">
-  I am a 17 years old student learning web development and programming.
+  I am a 18 years old student learning web development and programming.
   </h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/adnan_arodiya07?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/adnan_arodiya07)
