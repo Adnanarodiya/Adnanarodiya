@@ -9,7 +9,7 @@ Web Developer | Student | Learner
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My website](http://mysocial.aiarodiya.tk)
 * ✉️  You can contact me at [aiarodiya07@gmail.com](mailto:aiarodiya07@gmail.com)
-* 🧠  I'm learning Sass
+* 🧠  I'm learning NextJS
 * ⚡  You can give me coffee ☕
 
 ### Skills
