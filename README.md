@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adnan
 =============================================================================================================================
 
-Web Developer | Student | Lerner
+Web Developer | Student | Learner
 --------------------------------
 
 🌱 I’m currently learning Html,Css,JavaScrpit,C 📫 How to reach me aiarodiya07@gmail.com 👨‍💻 All of my projects are available at Github 💬 Ask me about Html,Css,C,JavaScript.
