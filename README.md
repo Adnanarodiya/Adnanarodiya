@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hii , I'm Saurav Pant </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hii , I'm Adnan Arodiya</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer.;Open-Source+Contributor+and+Maintainer.;Love+to+learn+new+stuffs...<3"></a>
@@ -12,9 +12,9 @@
 
 <br>
 
-- Full-Stack Developer
-- Open Source Contributor/Maintainer
-- Experienced in MERN Stack
+- A Web Developer
+- Open Source Contributor
+- Experienced in Front-End development
 - Passionate about learning new technologies and building projects...
 
 <br>
@@ -97,9 +97,6 @@
 
 [![Saurav Pant GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Adnanarodiya&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Saurav Pant GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Adnanarodiyat&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-<!-- Github Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Adnanarodiyat&theme=react&hide_border=true&background=FFFFFF&stroke=0000&ring=007AFF&fire=007AFF&currStreakNum=007AFF&currStreakLabel=444444&sideNums=007AFF&sideLabels=444444&dates=444444" alt="GitHub Streak" />
 
 </div>
 
