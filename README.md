@@ -18,9 +18,9 @@
 - Passionate about learning new technologies and building projects...
 
 <br>
-<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -82,10 +82,7 @@
 <br>
 
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br>
-<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <br>
 
@@ -99,13 +96,8 @@
 [![Saurav Pant GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Adnanarodiyat&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<br>
 <br>
 
-<br>
 
 ## <b> Let's Connect..!</b><img src="./assets/mdImages/handshake.gif" width ="80">
 
@@ -144,10 +136,6 @@
 </li>
 
 <br>
-
-<br>
-
-<br>
 	
 </ul>
 </div>
@@ -155,14 +143,14 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
+
+
 ## My Badge Board
 
 [![@tejash_29's Holopin board](https://holopin.me/adnan07)](https://holopin.io/@adnan07)
 
 <br>
-<br>
+
 
 </center>
 
