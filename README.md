@@ -19,57 +19,53 @@
 
 ## 🎯 **About Me**
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <p>✨ <strong>Web & Mobile Developer</strong> passionate about crafting highly performant, visually stunning, and user-centric digital experiences.</p>
-      <p>📱 <strong>Mobile App Specialist:</strong> Building cross-platform, native-feel applications with <strong>React Native & Expo</strong>.</p>
-      <p>⚡ <strong>Speed & SEO Expert:</strong> Designing next-generation static sites using <strong>Astro</strong>, achieving consistent <strong>95+ PageSpeed & SEO scores</strong>.</p>
-      <p>🧩 <strong>WordPress & Custom Theme Developer:</strong> Building clean, modular sites with <strong>Bricks Builder</strong> & <strong>Gutenbricks</strong>.</p>
-      <p>🤖 <strong>AI & Prompt Engineer:</strong> Keen explorer of AI tools, leveraging advanced prompt engineering to boost development velocity and create smarter solutions.</p>
-      <p>📍 <strong>Currently focusing on:</strong> React.js, Next.js, TypeScript, and cutting-edge web design.</p>
-    </td>
-    <td width="40%" valign="middle" align="center">
-      <img src="./assets/mdImages/about_me.gif" width="100%" alt="About Me Animation" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="right" src="./assets/mdImages/about_me.gif" width="280" alt="About Me Animation" style="border-radius: 10px; margin-left: 20px; margin-bottom: 20px;" />
+</p>
+
+✨ **Web & Mobile Developer** passionate about crafting highly performant, visually stunning, and user-centric digital experiences.
+
+📱 **Mobile App Specialist:** Building cross-platform, native-feel applications with **React Native & Expo**.
+
+⚡ **Speed & SEO Expert:** Designing next-generation static sites using **Astro**, achieving consistent **95+ PageSpeed & SEO scores**.
+
+🧩 **WordPress & Custom Theme Developer:** Building clean, modular sites with **Bricks Builder** & **Gutenbricks**.
+
+🤖 **AI & Prompt Engineer:** Keen explorer of AI tools, leveraging advanced prompt engineering to boost development velocity and create smarter solutions.
+
+📍 **Currently focusing on:** React.js, Next.js, TypeScript, and cutting-edge web design.
+
+<br clear="right"/>
+
 ---
 
 ## 🚀 **My Key Specialties**
 
-<div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr style="border: none;">
-      <td width="50%" align="left" style="border: none; padding: 10px;">
-        <h3>⚡ Astro Optimization (95+ Score)</h3>
-        <p>Expertise in static-site generation, zero-JS by default hydration, and optimal asset delivery, yielding lightning-fast page speed and premium search engine optimization.</p>
-        <img src="https://img.shields.io/badge/Astro%20Performance-95%2B%20Score-brightgreen?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro Performance Badge"/>
-        <img src="https://img.shields.io/badge/SEO-Optimized-blue?style=flat-square" alt="SEO Badge"/>
-      </td>
-      <td width="50%" align="left" style="border: none; padding: 10px;">
-        <h3>📱 Expo & React Native Apps</h3>
-        <p>Designing and developing slick, cross-platform mobile applications with native performances, seamless animations, and fast deployments via Expo Application Services.</p>
-        <img src="https://img.shields.io/badge/Expo-Mobile%20Apps-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Apps Badge"/>
-        <img src="https://img.shields.io/badge/React%20Native-Cross%20Platform-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native Badge"/>
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td width="50%" align="left" style="border: none; padding: 10px;">
-        <h3>🧩 WordPress (Bricks & Gutenbricks)</h3>
-        <p>Bespoke WordPress engineering without code bloat. Utilizing custom Bricks templates and Gutenbricks blocks to balance rich layouts with high performance.</p>
-        <img src="https://img.shields.io/badge/WordPress-Bricks-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress Bricks Badge"/>
-        <img src="https://img.shields.io/badge/Builder-Gutenbricks-4643B5?style=flat-square" alt="Gutenbricks Badge"/>
-      </td>
-      <td width="50%" align="left" style="border: none; padding: 10px;">
-        <h3>🤖 AI Tooling & Prompt Engineering</h3>
-        <p>Leveraging state-of-the-art AI assistants and prompt engineering workflows to write clean code, accelerate development pipelines, and explore new technical boundaries.</p>
-        <img src="https://img.shields.io/badge/AI%20Prompting-Advanced-8A2BE2?style=flat-square" alt="AI Prompting Badge"/>
-        <img src="https://img.shields.io/badge/Coding%20Speed-Accelerated-ff69b4?style=flat-square" alt="Coding Speed Badge"/>
-      </td>
-    </tr>
-  </table>
-</div>
+### ⚡ Astro Optimization (95+ Score)
+Expertise in static-site generation, zero-JS by default hydration, and optimal asset delivery, yielding lightning-fast page speed and premium search engine optimization.
+<br>
+<img src="https://img.shields.io/badge/Astro%20Performance-95%2B%20Score-brightgreen?style=flat-square&logo=astro&logoColor=FF5D01" alt="Astro Performance Badge"/> <img src="https://img.shields.io/badge/SEO-Optimized-blue?style=flat-square" alt="SEO Badge"/>
+
+---
+
+### 📱 Expo & React Native Apps
+Designing and developing slick, cross-platform mobile applications with native performances, seamless animations, and fast deployments via Expo Application Services.
+<br>
+<img src="https://img.shields.io/badge/Expo-Mobile%20Apps-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo Apps Badge"/> <img src="https://img.shields.io/badge/React%20Native-Cross%20Platform-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native Badge"/>
+
+---
+
+### 🧩 WordPress (Bricks & Gutenbricks)
+Bespoke WordPress engineering without code bloat. Utilizing custom Bricks templates and Gutenbricks blocks to balance rich layouts with high performance.
+<br>
+<img src="https://img.shields.io/badge/WordPress-Bricks-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress Bricks Badge"/> <img src="https://img.shields.io/badge/Builder-Gutenbricks-4643B5?style=flat-square" alt="Gutenbricks Badge"/>
+
+---
+
+### 🤖 AI Tooling & Prompt Engineering
+Leveraging state-of-the-art AI assistants and prompt engineering workflows to write clean code, accelerate development pipelines, and explore new technical boundaries.
+<br>
+<img src="https://img.shields.io/badge/AI%20Prompting-Advanced-8A2BE2?style=flat-square" alt="AI Prompting Badge"/> <img src="https://img.shields.io/badge/Coding%20Speed-Accelerated-ff69b4?style=flat-square" alt="Coding Speed Badge"/>
 
 ---
 
@@ -87,42 +83,6 @@
 | **🤖 AI & Prompting** | [![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=generative-ai&logoColor=white)](https://en.wikipedia.org/wiki/Prompt_engineering) [![AI Exploration](https://img.shields.io/badge/AI%20Tooling-Exploring-FF69B4?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/) |
 | **🛠️ Tools & DevOps** | [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/) [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com/) [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) |
 
-</div>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <table style="border: none; border-collapse: collapse; width: 100%;">
-    <tr style="border: none;">
-      <td width="60%" valign="top" style="border: none; padding: 10px;">
-        <!-- GitHub Stats Card -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adnanarodiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Adnanarodiya&show_icons=true&theme=default&hide_border=true">
-          <img alt="Adnan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adnanarodiya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF">
-        </picture>
-        <br><br>
-        <!-- Top Langs Card -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnanarodiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnanarodiya&layout=compact&theme=default&hide_border=true">
-          <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adnanarodiya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF">
-        </picture>
-        <br><br>
-        <!-- Streak Card -->
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adnanarodiya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF">
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adnanarodiya&theme=default&hide_border=true">
-          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Adnanarodiya&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=FFFFFF">
-        </picture>
-      </td>
-      <td width="40%" valign="middle" align="center" style="border: none; padding: 10px;">
-        <img src="./assets/mdImages/Right_Side.gif" width="100%" alt="Developer Animation" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
